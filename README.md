@@ -8,3 +8,10 @@ Bhanu-git-demo
 - `.gitignore` file
 - Finalley repo name
 
+
+# My git demo
+
+its my git demo
+first commits
+first mem
+first swee
